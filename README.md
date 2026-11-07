@@ -48,7 +48,7 @@ Everything below is a **technology name list**. No implementation details, no co
 | Segment | Content |
 |---|---|
 | 0:00–0:02 | Filter control panel — master switch, per-app route counter, log toggle, accessibility status |
-| 0:02–4:00 | Continuous reading session: consecutive chapter advancement, monotonically increasing page index, no interstitial break |
+| 0:02–3:56 | Continuous reading session: consecutive chapter advancement, monotonically increasing page index, no interstitial break |
 
 Reading region and all device chrome (status bar, page counter, navigation bar) are mosaic-masked and flattened in the published cut. Audio track is removed.
 
