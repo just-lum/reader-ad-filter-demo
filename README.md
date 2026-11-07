@@ -1,7 +1,13 @@
 # Reader Ad Filter — Technical Demo
 
 Sanitized demonstration footage of an on-device ad-filtering stack for a **mobile reading application**.
-The video shows the reader running with filtering enabled: page turns complete without interstitial ad breaks, and the filter's own status panel reports its route counters.
+The clip shows the reader running with filtering enabled: page turns complete without interstitial ad breaks, and the filter's own status panel reports its route counters.
+
+**▶ Video (inline, plays on this page)**
+
+<video src="https://github.com/user-attachments/assets/1ef30720-7892-421f-8b78-5102ab254550" controls width="100%"></video>
+
+Direct link: [demo/reader-ad-filter-demo.mp4](demo/reader-ad-filter-demo.mp4) · 236.6 s · 888×1920 · 24 fps · H.264
 
 Everything below is a **technology name list**. No implementation details, no configuration values, no target identifiers, no operational steps.
 
